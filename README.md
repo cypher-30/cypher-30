@@ -10,14 +10,14 @@
 
 ## About Me
 
-I’m an aspiring **Machine Learning & Data Engineer** passionate about turning complexity into clarity — whether that’s through scalable systems, optimized SQL queries, or well-structured data pipelines.
+I’m an aspiring **Machine Learning & Data Engineer** passionate about turning complexity into clarity whether that’s through scalable systems, optimized SQL queries, or well-structured data pipelines.
 
-- 🔭 Currently mastering **Python**, **SQL**, and **Cloud Architecture**
-- 🌱 Learning to optimize **ETL pipelines** and query performance
-- 🧩 Exploring **Docker**, **Kubernetes**, and **data workflow orchestration**
-- 🧠 Interested in **AI systems**, **MLOps**, and **automation**
-- ⚡ Fun fact: I’m an avid climber — both rocks *and* technical challenges
-- 🎯 Long-term goal: Build reliable data systems that *learn and adapt on their own*
+-  Currently mastering **Python**, **SQL**, and **Cloud Architecture**
+-  Learning to optimize **ETL pipelines** and query performance
+-  Exploring **Docker**, **Kubernetes**, and **data workflow orchestration**
+-  Interested in **AI systems**, **MLOps**, and **automation**
+-  Fun fact: I love doing sudoku puzzles
+-  Long-term goal: Build reliable data systems that *learn and adapt on their own*
 
 ---
 
@@ -51,7 +51,7 @@ I’m an aspiring **Machine Learning & Data Engineer** passionate about turning 
 
 ---
 
-### 📊 GitHub Stats & Insights
+###  GitHub Stats & Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cypher-30&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -64,17 +64,17 @@ I’m an aspiring **Machine Learning & Data Engineer** passionate about turning 
 
 ---
 
-### 🚧 Projects
+###  Projects
 
 > **In Progress:** Building my first portfolio of ML/Data Engineering tools & experiments.  
 > Stay tuned for cool stuff soon 👀
 
 ---
 
-### 🧠 Engineering Philosophy
+###  Engineering Philosophy
 
-> Simplicity is not the absence of complexity — it’s mastery over it.  
-> I believe that every system, like every person, should evolve — through iteration, feedback, and purpose.
+> Simplicity is not the absence of complexity,it’s mastery over it.  
+> I believe that every system, like every person, should evolve; through iteration, feedback, and purpose.
 
 ---
 
@@ -98,10 +98,10 @@ I’m an aspiring **Machine Learning & Data Engineer** passionate about turning 
 ---
 
 <details>
-<summary>⚙️ More About Me (click to expand)</summary>
+<summary> More About Me (click to expand)</summary>
 
-- 🧩 I approach problems like puzzles — break them down, find patterns, build back stronger.  
-- 🎧 I love ambient and instrumental music while coding — helps me enter flow state.  
-- 🔮 Vision: To engineer data systems that think before they break.  
-- 🧬 Motto: *“If code is language, then debugging is philosophy.”*
+-  I approach problems like puzzles break them down, find patterns, build back stronger.  
+-  I love ambient and instrumental music while coding helps me enter flow state.  
+-  Vision: To engineer data systems that think before they break.  
+-  Motto: *“If code is language, then debugging is philosophy.”*
 </details>
