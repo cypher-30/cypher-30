@@ -92,8 +92,11 @@ My stack is focused on building and deploying robust data solutions.
 <summary>💡 More About Me (click to expand)</summary>
 <br/>
 -  I approach problems like puzzles: break them down, find patterns, build back stronger.
+  
 -  I love ambient and instrumental music while coding; it helps me enter a flow state.
+-  
 -  Vision: To engineer data systems that think before they break.
+-  
 -  Motto: *“If code is language, then debugging is philosophy.”*
 </details>
 
