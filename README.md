@@ -1,86 +1,62 @@
-<!-- ✨ Profile README for cypher-30 (Alvin Murithi) ✨ -->
-
 <h1 align="center">Hi there 👋, I'm Alvin Murithi</h1>
 <h3 align="center">ML & Data Engineer | Systems Thinker | Curious Human</h3>
 
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*  
+> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
 > “And yet, the best humor often hides deep logic.” — *Cypher-30*
 
 ---
 
 ## About Me
 
-I’m an aspiring **Machine Learning & Data Engineer** passionate about turning complexity into clarity whether that’s through scalable systems, optimized SQL queries, or well-structured data pipelines.
+I'm a **Machine Learning & Data Engineer** focused on turning complexity into clarity—whether that’s through scalable systems, optimized SQL queries, or well-structured data pipelines.
 
--  Currently mastering **Python**, **SQL**, and **Cloud Architecture**
--  Learning to optimize **ETL pipelines** and query performance
--  Exploring **Docker**, **Kubernetes**, and **data workflow orchestration**
--  Interested in **AI systems**, **MLOps**, and **automation**
--  Fun fact: I love doing sudoku puzzles
--  Long-term goal: Build reliable data systems that *learn and adapt on their own*
-
----
-
-### 🧰 Tech Stack & Tools
-
-**Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-**Frameworks & Libraries**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-**Databases & Cloud**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+- 📈 Currently mastering **Python**, **SQL**, and **Cloud Architecture**
+- 🛠️ Learning to optimize **ETL pipelines** and query performance
+- ☁️ Exploring **Docker**, **Kubernetes**, and **data workflow orchestration**
+- 🤖 Interested in **AI systems**, **MLOps**, and **automation**
+- 🧩 Fun fact: I love doing sudoku puzzles
+- 🎯 Long-term goal: Build reliable data systems that *learn and adapt on their own*
 
 ---
 
-###  GitHub Stats & Insights
+### 🧰 Core Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cypher-30&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cypher-30&theme=nord&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
-</p>
+My stack is focused on building and deploying robust data solutions.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher-30&layout=compact&langs_count=6&theme=nord&hide_border=true" alt="Top Languages" />
-</p>
+* **Languages:** Python, SQL, JavaScript/TypeScript, HTML5
+* **Frameworks & Libraries:** React, Node.js, Tailwind CSS
+* **Databases & Data:** PostgreSQL, MongoDB
+* **Cloud & DevOps:** AWS, Docker, Kubernetes
 
 ---
 
-###  Projects
+### 🚀 Featured Projects
 
-> **In Progress:** Building my first portfolio of ML/Data Engineering tools & experiments.  
-> Stay tuned for cool stuff soon 👀
+> A curated list of projects that showcase my current focus. (As per Guideline #4, these should have "purpose-driven one-liners.")
 
----
+**1. [Your Flagship Project Name]**
+* **Purpose:** What it does and what the outcome is. (e.g., "A full-stack web app for [domain] that solves [problem].")
+* **Core Tech:** `Python`, `React`, `PostgreSQL`, `Docker`
+* **[View Repository]** | **[Live Demo]**
 
-###  Engineering Philosophy
+**2. [Your Data/ML Project Name]**
+* **Purpose:** What it does and what the outcome is. (e.g., "An ETL pipeline that ingests [data source] and models it for [purpose].")
+* **Core Tech:** `Python`, `AWS`, `SQL`, `Airflow`
+* **[View Repository]**
 
-> Simplicity is not the absence of complexity,it’s mastery over it.  
-> I believe that every system, like every person, should evolve; through iteration, feedback, and purpose.
+**3. [Your Learning/Niche Project Name]**
+* **Purpose:** What it does and what the outcome is. (e.g., "An exploration of [tech] to build [a tool/system].")
+* **Core Tech:** `Kubernetes`, `Go`, `gRPC`
+* **[View Repository]**
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
+  <a href="mailto:ialvinmurithi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/alvin-murithi-0a0196328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -91,17 +67,37 @@ I’m an aspiring **Machine Learning & Data Engineer** passionate about turning 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cypher-30&color=blue" alt="Profile views counter" />
-</p>
+### 🌌 Engineering Philosophy
+
+> Simplicity is not the absence of complexity, it’s mastery over it.
+> I believe that every system, like every person, should evolve; through iteration, feedback, and purpose.
 
 ---
 
 <details>
-<summary> More About Me (click to expand)</summary>
+<summary>📈 My GitHub Stats & Activity</summary>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cypher-30&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cypher-30&theme=nord&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
+</p>
 
--  I approach problems like puzzles break them down, find patterns, build back stronger.  
--  I love ambient and instrumental music while coding helps me enter flow state.  
--  Vision: To engineer data systems that think before they break.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher-30&layout=compact&langs_count=6&theme=nord&hide_border=true" alt="Top Languages" />
+</p>
+</details>
+
+<details>
+<summary>💡 More About Me (click to expand)</summary>
+<br/>
+-  I approach problems like puzzles: break them down, find patterns, build back stronger.
+-  I love ambient and instrumental music while coding; it helps me enter a flow state.
+-  Vision: To engineer data systems that think before they break.
 -  Motto: *“If code is language, then debugging is philosophy.”*
 </details>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cypher-30&color=blue" alt="Profile views counter" />
+</p>
