@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a **Machine Learning & Data Engineer** focused on turning complexity into clarity—whether that’s through scalable systems, optimized SQL queries, or well-structured data pipelines.
+'m a Computer Science student (Year 2) passionate about building intelligent data systems. I'm focused on turning complexity into clarity whether that’s through scalable systems, optimized SQL queries, or well-structured data pipelines.
 
 - 📈 Currently mastering **Python**, **SQL**, and **Cloud Architecture**
 - 🛠️ Learning to optimize **ETL pipelines** and query performance
@@ -35,19 +35,19 @@ My stack is focused on building and deploying robust data solutions.
 
 > A curated list of projects that showcase my current focus. (As per Guideline #4, these should have "purpose-driven one-liners.")
 
-**1. [Your Flagship Project Name]**
-* **Purpose:** What it does and what the outcome is. (e.g., "A full-stack web app for [domain] that solves [problem].")
-* **Core Tech:** `Python`, `React`, `PostgreSQL`, `Docker`
+**1. Nairobi Live Dashboard ("Smart Data Hub")**
+* **Purpose:** An end-to-end data platform that ingests, processes, and visualizes real-time city data (like traffic, weather, and power) to provide a live civic pulse.
+* **Core Tech:** `Python`, `React`, `PostgreSQL`, `Docker`,`Airflow`,`scikit-learn`
 * **[View Repository]** | **[Live Demo]**
 
-**2. [Your Data/ML Project Name]**
-* **Purpose:** What it does and what the outcome is. (e.g., "An ETL pipeline that ingests [data source] and models it for [purpose].")
-* **Core Tech:** `Python`, `AWS`, `SQL`, `Airflow`
+**2. Real-Time Sentiment Analysis Pipeline**
+* **Purpose:** A streaming data pipeline that ingests live social media data (from Reddit or Twitter APIs) and uses an ML model to classify public sentiment in real-time.
+* **Core Tech:** `Python`, `Kafka`, `Airflow`,`scikit-learn`,`PostgreSQL`
 * **[View Repository]**
 
-**3. [Your Learning/Niche Project Name]**
-* **Purpose:** What it does and what the outcome is. (e.g., "An exploration of [tech] to build [a tool/system].")
-* **Core Tech:** `Kubernetes`, `Go`, `gRPC`
+**3. Personalized AI Spanish Tutor**
+* **Purpose:** A custom AI chatbot, built using the Gemini API, to provide interactive and personalized Spanish-language tutoring and conversation practice.
+* **Core Tech:** `python`,`Gemini API`,`Streamlit`,`FastAPI`
 * **[View Repository]**
 
 ---
