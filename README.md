@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a Computer Science student (Year 2) passionate about building intelligent data systems. I'm focused on turning complexity into clarity whether that’s through scalable systems, optimized SQL queries, or well-structured data pipelines.
+I'm a Computer Science student (Year 3) passionate about building intelligent data systems. I'm focused on turning complexity into clarity whether that’s through scalable systems, optimized SQL queries, or well-structured data pipelines.
 
 - 📈 Currently mastering **Python**, **SQL**, and **Cloud Architecture**
 - 🛠️ Learning to optimize **ETL pipelines** and query performance
