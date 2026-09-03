@@ -13,7 +13,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F00FF,100:00C2FF&height=160&section=header" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=160&section=header" width="100%" alt=""/>
 </p>
 
 <div align="center">
@@ -153,4 +153,4 @@ exactly-once delivery, message ordering, and
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cypher-30.cypher-30" alt="Profile views counter" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C2FF,100:7F00FF&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=100&section=footer" width="100%" alt=""/>
