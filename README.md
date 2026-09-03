@@ -19,7 +19,7 @@
 <div align="center">
 
 <a href="https://github.com/cypher-30">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=560&height=60&lines=Hi%2C+I'm+Alvin;Habari%2C+mimi+ni+Alvin;Hola%2C+soy+Alvin;Bonjour%2C+je+suis+Alvin;Software+developer;I+build+things+that+run+offline%2C;sync+in+real+time%2C+or+think+for+themselves" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Alvin;Habari%2C+mimi+ni+Alvin;Hola%2C+soy+Alvin;Bonjour%2C+je+suis+Alvin;Software+developer;I+build+things+that+run+offline%2C;sync+in+real+time%2C+or+think+for+themselves" alt="Typing SVG" />
 </a>
 
 </div>
