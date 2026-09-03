@@ -99,17 +99,11 @@ inequality across the population. There is no player goal. You just watch it hap
 
 ---
 
-### 🇰🇪 My repos, translated
+### 🧬 Top languages
 
-I name a lot of my projects in Swahili. Here's the decoder ring:
-
-| Repo | Word | Means |
-|---|---|---|
-| [Mfuko](https://github.com/cypher-30/Mfuko) | *mfuko* | pocket / fund |
-| [Kumbuka](https://github.com/cypher-30/Kumbuka) | *kumbuka* | remember |
-
-I like naming things in more than one language. Same instinct that has me trying to actually get
-conversational in a few, not just collect textbooks.
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher-30&layout=compact&langs_count=8&theme=nord&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -154,9 +148,6 @@ conversational in a few, not just collect textbooks.
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cypher-30&theme=nord&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher-30&layout=compact&langs_count=6&theme=nord&hide_border=true" alt="Top Languages" />
 </p>
 </details>
 
