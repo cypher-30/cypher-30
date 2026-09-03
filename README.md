@@ -32,7 +32,7 @@ AI-assisted systems, not (yet) a job title.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:7F00FF&height=3&section=header" width="100%" alt=""/>
 
-### 🚀 Things I've actually shipped
+### Things I've actually shipped
 
 **[Chorus](https://github.com/cypher-30/chorus)** — turns every phone and laptop in a room into one
 synchronized speaker. Devices sync clocks the way NTP does, the server schedules playback for a
@@ -87,7 +87,7 @@ inequality across the population. There is no player goal. You just watch it hap
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C2FF&height=3&section=header" width="100%" alt=""/>
 
-### 🛠️ Things I code with
+### Things I code with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,py,ts,js,java,php&theme=dark" alt="Languages"/>
@@ -101,7 +101,7 @@ inequality across the population. There is no player goal. You just watch it hap
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:7F00FF&height=3&section=header" width="100%" alt=""/>
 
-### 🎲 A few true things
+### A few true things
 
 ```bash
 $ cat about-me.sh
@@ -119,7 +119,7 @@ exactly-once delivery, message ordering, and
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C2FF&height=3&section=header" width="100%" alt=""/>
 
-### 📫 Reach me
+### Reach me
 
 <p align="center">
   <a href="mailto:ialvinmurithi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Email"/></a>
@@ -137,16 +137,16 @@ exactly-once delivery, message ordering, and
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:7F00FF&height=3&section=header" width="100%" alt=""/>
 
-### 📊 The numbers
+### The numbers
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cypher-30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cypher-30&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cypher-30&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=cypher-30&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher-30&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher-30&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
