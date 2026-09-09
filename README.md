@@ -26,8 +26,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C2FF&height=3&section=header" width="100%" alt=""/>
 
-Third-year Informatics and Computer Science student at Strathmore University (grad 2028), looking for
-a software development attachment. Full-stack and Android, mostly. Growing interest in data-driven and
+Third-year Informatics and Computer Science student at Strathmore University (grad 2028). Growing interest in data-driven and
 AI-assisted systems, not (yet) a job title.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:7F00FF&height=3&section=header" width="100%" alt=""/>
