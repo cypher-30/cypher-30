@@ -29,6 +29,8 @@
 Third-year Informatics and Computer Science student at Strathmore University (grad 2028). Growing interest in data-driven and
 AI-assisted systems, not (yet) a job title.
 
+**Portfolio:** [cypher-30.github.io/consort](https://cypher-30.github.io/consort/)
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:7F00FF&height=3&section=header" width="100%" alt=""/>
 
 ### Things I've actually shipped
@@ -126,6 +128,9 @@ exactly-once delivery, message ordering, and
   <a href="https://www.linkedin.com/in/alvin-murithi-0a0196328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/cypher-30"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub"/></a>
+</p>
+<p align="center">
+  <a href="https://cypher-30.github.io/consort/"><img src="https://img.shields.io/badge/Website-cypher--30.github.io%2Fconsort-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: cypher-30.github.io/consort"/></a>
 </p>
 
 <picture>
